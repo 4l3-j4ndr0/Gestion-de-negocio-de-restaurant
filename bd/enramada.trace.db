@@ -1,0 +1,4 @@
+2020-07-22 13:54:55 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLException: Error de Sintaxis en sentencia SQL "DIAS[*]"; se esperaba "DELETE, DROP, DECLARE, DEALLOCATE, {"
+Syntax error in SQL statement "DIAS[*]"; expected "DELETE, DROP, DECLARE, DEALLOCATE, {"; SQL statement:
+DIAS [42001-192]
